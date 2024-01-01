@@ -19,7 +19,7 @@ Body-parser
 
 
 ## Run project
-to run project --> node server.js  <--
+To run project --> node server.js  <--
 
 Once the server is running, access the BMI calculator application through a web browser.
 
